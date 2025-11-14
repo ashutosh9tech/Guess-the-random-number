@@ -9,6 +9,6 @@ After each guess, the program provides a hint until the number is not equal:
 
 The game ends when the player guesses the number correctly, and the program displays the total number of attempts.
 
-# How to run?
+# How to run
 1. Save the script to a file, for example: **guessing_game.py**
 2. Run it using: **python guessing_game.py**
